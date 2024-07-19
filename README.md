@@ -3,7 +3,7 @@
 I wrote this language in python. It's quite unfinished and has few functions, but you can have fun with it. You will find the documentation after installation. The installer installs the files in Program Files (x86).
 
 # Website: http://byte1286.web1337.net/
-# Telegram Channel: @byte1286
+# Telegram Channel: https://t.me/byte1286
 
 None of the files are dangerous to your PC!
 
